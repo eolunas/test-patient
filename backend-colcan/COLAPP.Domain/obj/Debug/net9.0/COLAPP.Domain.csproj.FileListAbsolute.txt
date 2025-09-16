@@ -1,0 +1,11 @@
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Domain\bin\Debug\net9.0\COLAPP.Domain.deps.json
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Domain\bin\Debug\net9.0\COLAPP.Domain.dll
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Domain\bin\Debug\net9.0\COLAPP.Domain.pdb
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Domain\obj\Debug\net9.0\COLAPP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Domain\obj\Debug\net9.0\COLAPP.Domain.AssemblyInfoInputs.cache
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Domain\obj\Debug\net9.0\COLAPP.Domain.AssemblyInfo.cs
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Domain\obj\Debug\net9.0\COLAPP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Domain\obj\Debug\net9.0\COLAPP.Domain.dll
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Domain\obj\Debug\net9.0\refint\COLAPP.Domain.dll
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Domain\obj\Debug\net9.0\COLAPP.Domain.pdb
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Domain\obj\Debug\net9.0\ref\COLAPP.Domain.dll

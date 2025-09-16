@@ -1,0 +1,17 @@
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\bin\Debug\net9.0\COLAPP.Application.deps.json
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\bin\Debug\net9.0\COLAPP.Application.dll
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\bin\Debug\net9.0\COLAPP.Application.pdb
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\bin\Debug\net9.0\COLAPP.Domain.dll
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\bin\Debug\net9.0\COLAPP.Shared.dll
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\bin\Debug\net9.0\COLAPP.Domain.pdb
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\bin\Debug\net9.0\COLAPP.Shared.pdb
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\obj\Debug\net9.0\COLAPP.Application.csproj.AssemblyReference.cache
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\obj\Debug\net9.0\COLAPP.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\obj\Debug\net9.0\COLAPP.Application.AssemblyInfoInputs.cache
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\obj\Debug\net9.0\COLAPP.Application.AssemblyInfo.cs
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\obj\Debug\net9.0\COLAPP.Application.csproj.CoreCompileInputs.cache
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\obj\Debug\net9.0\COLAPP.A.5C35403A.Up2Date
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\obj\Debug\net9.0\COLAPP.Application.dll
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\obj\Debug\net9.0\refint\COLAPP.Application.dll
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\obj\Debug\net9.0\COLAPP.Application.pdb
+C:\Users\eolun\Desktop\COLCAN\backend-colcan\COLAPP.Application\obj\Debug\net9.0\ref\COLAPP.Application.dll

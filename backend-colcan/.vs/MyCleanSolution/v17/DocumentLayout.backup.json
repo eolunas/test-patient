@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E53FDC16-4B84-4AED-AB88-3BC297A0BAE4}|COLAPP.Api\\COLAPP.Api.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53FDC16-4B84-4AED-AB88-3BC297A0BAE4}|COLAPP.Api\\COLAPP.Api.csproj|solutionrelative:colapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.application\\features\\patient\\commands\\update\\updatepatientcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|solutionrelative:colapp.application\\features\\patient\\commands\\update\\updatepatientcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.application\\features\\patient\\commands\\update\\updatepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|solutionrelative:colapp.application\\features\\patient\\commands\\update\\updatepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.application\\features\\patient\\commands\\delete\\deletepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|solutionrelative:colapp.application\\features\\patient\\commands\\delete\\deletepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.application\\features\\patient\\commands\\create\\createpatientcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|solutionrelative:colapp.application\\features\\patient\\commands\\create\\createpatientcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|solutionrelative:colapp.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A62A73-3CBA-4696-B3F8-4830B21B7FA9}|COLAPP.Infrastructure\\COLAPP.Infrastructure.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.infrastructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A62A73-3CBA-4696-B3F8-4830B21B7FA9}|COLAPP.Infrastructure\\COLAPP.Infrastructure.csproj|solutionrelative:colapp.infrastructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53FDC16-4B84-4AED-AB88-3BC297A0BAE4}|COLAPP.Api\\COLAPP.Api.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53FDC16-4B84-4AED-AB88-3BC297A0BAE4}|COLAPP.Api\\COLAPP.Api.csproj|solutionrelative:colapp.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.application\\common\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|solutionrelative:colapp.application\\common\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53FDC16-4B84-4AED-AB88-3BC297A0BAE4}|COLAPP.Api\\COLAPP.Api.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53FDC16-4B84-4AED-AB88-3BC297A0BAE4}|COLAPP.Api\\COLAPP.Api.csproj|solutionrelative:colapp.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A62A73-3CBA-4696-B3F8-4830B21B7FA9}|COLAPP.Infrastructure\\COLAPP.Infrastructure.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.infrastructure\\persistence\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A62A73-3CBA-4696-B3F8-4830B21B7FA9}|COLAPP.Infrastructure\\COLAPP.Infrastructure.csproj|solutionrelative:colapp.infrastructure\\persistence\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A62A73-3CBA-4696-B3F8-4830B21B7FA9}|COLAPP.Infrastructure\\COLAPP.Infrastructure.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A62A73-3CBA-4696-B3F8-4830B21B7FA9}|COLAPP.Infrastructure\\COLAPP.Infrastructure.csproj|solutionrelative:colapp.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBCDC49-3CC8-41D3-8634-FD964C7EDEAE}|COLAPP.Domain\\COLAPP.Domain.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBCDC49-3CC8-41D3-8634-FD964C7EDEAE}|COLAPP.Domain\\COLAPP.Domain.csproj|solutionrelative:colapp.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.application\\features\\patient\\commands\\update\\updatepatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|solutionrelative:colapp.application\\features\\patient\\commands\\update\\updatepatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.application\\features\\patient\\commands\\create\\createpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|solutionrelative:colapp.application\\features\\patient\\commands\\create\\createpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.application\\features\\patient\\commands\\delete\\deletepatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|solutionrelative:colapp.application\\features\\patient\\commands\\delete\\deletepatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.application\\features\\patient\\commands\\create\\createpatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|solutionrelative:colapp.application\\features\\patient\\commands\\create\\createpatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.application\\features\\patient\\queries\\getbyid\\getbyidpatientquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|solutionrelative:colapp.application\\features\\patient\\queries\\getbyid\\getbyidpatientquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.application\\features\\patient\\queries\\getbyid\\getbyidpatientqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|solutionrelative:colapp.application\\features\\patient\\queries\\getbyid\\getbyidpatientqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.application\\features\\patient\\queries\\getall\\getallpatientquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|solutionrelative:colapp.application\\features\\patient\\queries\\getall\\getallpatientquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|c:\\users\\eolun\\desktop\\colcan\\backend-colcan\\colapp.application\\features\\patient\\queries\\getall\\getallpatientqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC13F1-0073-4B10-B776-89543CDB67B8}|COLAPP.Application\\COLAPP.Application.csproj|solutionrelative:colapp.application\\features\\patient\\queries\\getall\\getallpatientqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdatePatientCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Update\\UpdatePatientCommandValidator.cs",
+              "RelativeDocumentMoniker": "COLAPP.Application\\Features\\Patient\\Commands\\Update\\UpdatePatientCommandValidator.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Update\\UpdatePatientCommandValidator.cs",
+              "RelativeToolTip": "COLAPP.Application\\Features\\Patient\\Commands\\Update\\UpdatePatientCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T23:01:19.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreatePatientCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Create\\CreatePatientCommandValidator.cs",
+              "RelativeDocumentMoniker": "COLAPP.Application\\Features\\Patient\\Commands\\Create\\CreatePatientCommandValidator.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Create\\CreatePatientCommandValidator.cs",
+              "RelativeToolTip": "COLAPP.Application\\Features\\Patient\\Commands\\Create\\CreatePatientCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T23:00:08.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdatePatientCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Update\\UpdatePatientCommandHandler.cs",
+              "RelativeDocumentMoniker": "COLAPP.Application\\Features\\Patient\\Commands\\Update\\UpdatePatientCommandHandler.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Update\\UpdatePatientCommandHandler.cs",
+              "RelativeToolTip": "COLAPP.Application\\Features\\Patient\\Commands\\Update\\UpdatePatientCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T21:56:02.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdatePatientCommand.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Update\\UpdatePatientCommand.cs",
+              "RelativeDocumentMoniker": "COLAPP.Application\\Features\\Patient\\Commands\\Update\\UpdatePatientCommand.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Update\\UpdatePatientCommand.cs",
+              "RelativeToolTip": "COLAPP.Application\\Features\\Patient\\Commands\\Update\\UpdatePatientCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T21:55:10.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeletePatientCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Delete\\DeletePatientCommandHandler.cs",
+              "RelativeDocumentMoniker": "COLAPP.Application\\Features\\Patient\\Commands\\Delete\\DeletePatientCommandHandler.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Delete\\DeletePatientCommandHandler.cs",
+              "RelativeToolTip": "COLAPP.Application\\Features\\Patient\\Commands\\Delete\\DeletePatientCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T21:52:35.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeletePatientCommand.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Delete\\DeletePatientCommand.cs",
+              "RelativeDocumentMoniker": "COLAPP.Application\\Features\\Patient\\Commands\\Delete\\DeletePatientCommand.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Delete\\DeletePatientCommand.cs",
+              "RelativeToolTip": "COLAPP.Application\\Features\\Patient\\Commands\\Delete\\DeletePatientCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T21:52:08.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Api\\Program.cs",
+              "RelativeDocumentMoniker": "COLAPP.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Api\\Program.cs",
+              "RelativeToolTip": "COLAPP.Api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T21:44:30.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "COLAPP.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "COLAPP.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T21:31:02.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetByIdPatientQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Queries\\GetById\\GetByIdPatientQueryHandler.cs",
+              "RelativeDocumentMoniker": "COLAPP.Application\\Features\\Patient\\Queries\\GetById\\GetByIdPatientQueryHandler.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Queries\\GetById\\GetByIdPatientQueryHandler.cs",
+              "RelativeToolTip": "COLAPP.Application\\Features\\Patient\\Queries\\GetById\\GetByIdPatientQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T21:20:16.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetByIdPatientQuery.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Queries\\GetById\\GetByIdPatientQuery.cs",
+              "RelativeDocumentMoniker": "COLAPP.Application\\Features\\Patient\\Queries\\GetById\\GetByIdPatientQuery.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Queries\\GetById\\GetByIdPatientQuery.cs",
+              "RelativeToolTip": "COLAPP.Application\\Features\\Patient\\Queries\\GetById\\GetByIdPatientQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T21:19:36.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Common\\Interfaces\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "COLAPP.Application\\Common\\Interfaces\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Common\\Interfaces\\IPatientRepository.cs",
+              "RelativeToolTip": "COLAPP.Application\\Common\\Interfaces\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T21:02:12.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllPatientQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Queries\\GetAll\\GetAllPatientQueryHandler.cs",
+              "RelativeDocumentMoniker": "COLAPP.Application\\Features\\Patient\\Queries\\GetAll\\GetAllPatientQueryHandler.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Queries\\GetAll\\GetAllPatientQueryHandler.cs",
+              "RelativeToolTip": "COLAPP.Application\\Features\\Patient\\Queries\\GetAll\\GetAllPatientQueryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:58:50.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllPatientQuery.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Queries\\GetAll\\GetAllPatientQuery.cs",
+              "RelativeDocumentMoniker": "COLAPP.Application\\Features\\Patient\\Queries\\GetAll\\GetAllPatientQuery.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Queries\\GetAll\\GetAllPatientQuery.cs",
+              "RelativeToolTip": "COLAPP.Application\\Features\\Patient\\Queries\\GetAll\\GetAllPatientQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:58:30.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Api\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "COLAPP.Api\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Api\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "COLAPP.Api\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:54:51.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreatePatientCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Create\\CreatePatientCommandHandler.cs",
+              "RelativeDocumentMoniker": "COLAPP.Application\\Features\\Patient\\Commands\\Create\\CreatePatientCommandHandler.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Create\\CreatePatientCommandHandler.cs",
+              "RelativeToolTip": "COLAPP.Application\\Features\\Patient\\Commands\\Create\\CreatePatientCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:48:08.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreatePatientCommand.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Create\\CreatePatientCommand.cs",
+              "RelativeDocumentMoniker": "COLAPP.Application\\Features\\Patient\\Commands\\Create\\CreatePatientCommand.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Application\\Features\\Patient\\Commands\\Create\\CreatePatientCommand.cs",
+              "RelativeToolTip": "COLAPP.Application\\Features\\Patient\\Commands\\Create\\CreatePatientCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:43:46.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Api\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "COLAPP.Api\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Api\\DependencyInjection.cs",
+              "RelativeToolTip": "COLAPP.Api\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:38:20.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Infrastructure\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "COLAPP.Infrastructure\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Infrastructure\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "COLAPP.Infrastructure\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:19:58.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Infrastructure\\Persistence\\DapperContext.cs",
+              "RelativeDocumentMoniker": "COLAPP.Infrastructure\\Persistence\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Infrastructure\\Persistence\\DapperContext.cs",
+              "RelativeToolTip": "COLAPP.Infrastructure\\Persistence\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:10:59.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "COLAPP.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "COLAPP.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:10:04.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "COLAPP.Domain\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\eolun\\Desktop\\COLCAN\\backend-colcan\\COLAPP.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "COLAPP.Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:01:10.281Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
